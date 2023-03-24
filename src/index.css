@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@400;500;700;800&display=swap');
+body {
+  margin: 0;
+  font-family: Alegrea SC;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #EBF4FA;
+}
+html{
+  scroll-behavior: smooth;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
